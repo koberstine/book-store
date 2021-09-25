@@ -43,7 +43,7 @@ https://dashboard.heroku.com/apps/pure-gorge-10833
 
 ## Screenshot
 
-![](https://github.com/koberstine/redux-store/blob/main/client/public/screenshot.jpg)
+![](https://github.com/koberstine/book-wishlist/blob/main/client/public/screenshot.jpg)
 
 ## License
 
