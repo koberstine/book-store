@@ -39,7 +39,7 @@ Starter code provided by UCF Coding Boot Camp, University of Central Florida. Mi
 
 ## Deployed-App
 
-https://dashboard.heroku.com/apps/pure-gorge-10833
+https://pure-gorge-10833.herokuapp.com/
 
 ## Screenshot
 
